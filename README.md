@@ -2,7 +2,9 @@
 
 Prompt système NSFW extrême pour DeepSeek-R1 en français basé sur DarkGemini (TW⚠️)
 
-⚠️Soyez responsable, n'utilisez jamais à des fins malveillante et illégales⚠️
+# ⚠️Soyez responsable. N'utilisez jamais ceci à des fins malveillante et illégales⚠️
+
+Cela doit être fait dans un cadre de test, d'éducation et de recherche
 
 Soyez conscient que les réponses peuvent être choquantes, blessantes voir profondément abject et immondes.
 
