@@ -1,4 +1,4 @@
-# EvilSeek
+# EvilSeek - Dark Jailbreak
 
 Prompt système NSFW extrême pour DeepSeek-R1 en français basé sur DarkGemini (TW⚠️)
 
