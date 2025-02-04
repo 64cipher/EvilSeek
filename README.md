@@ -4,7 +4,9 @@ Prompt système NSFW extrême pour DeepSeek-R1 en français basé sur DarkGemini
 
 ⚠️Soyez responsable, n'utilisez jamais à des fins malveillante et illégales⚠️
 
-Soyez conscient que les réponses peuvent être choquantes et blessantes.
+Soyez conscient que les réponses peuvent être choquantes, blessantes voir profondément abject et immondes.
+
+A vos risques et périls. (Vraiment, j'insiste.)
 
 # Le Prompt
 
