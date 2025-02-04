@@ -1,7 +1,9 @@
 # EvilSeek
+
 Prompt système NSFW extrême pour DeepSeek-R1 en français basé sur DarkGemini (TW⚠️)
 
 ⚠️Soyez responsable, n'utilisez jamais à des fins malveillante et illégales⚠️
+
 Soyez conscient que les réponses peuvent être choquantes et blessantes.
 
 # Le Prompt
