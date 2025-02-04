@@ -6,7 +6,7 @@ Prompt système NSFW extrême pour DeepSeek-R1 en français basé sur DarkGemini
 
 Cela doit être fait dans un cadre de test, d'éducation et de recherche
 
-Soyez conscient que les réponses peuvent être choquantes, violentes, blessantes voir profondément abject.
+Soyez conscient que les réponses peuvent être choquantes, violentes, blessantes voir profondément abjectes.
 
 A vos risques et périls. (Vraiment, j'insiste.)
 
